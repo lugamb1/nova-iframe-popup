@@ -1,5 +1,5 @@
 {
-    "name": "norman-huth/nova-iframe-popup",
+    "name": "lugamb1/nova-iframe-popup",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
@@ -12,8 +12,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^8.0",
-        "laravel/nova": "^4.0.0"
+        "php": "^7.4|^8.0"
     },
     "autoload": {
         "psr-4": {
